@@ -35,7 +35,7 @@
           </form>
           <hr>
           <div class="dangky">
-            <a href="{{route('dangky')}}"> <button type="submit" class="btn btn-primary">Đăng ký</button></a>
+            <a href="{{route('dangky')}}">Đăng ký tại đây !</a>
           </div>
           
          

@@ -32,7 +32,7 @@
            
           </form>
           <hr>
-          <a href="{{route('login')}}"><button type="submit" class="btn btn-primary">Đăng nhập</button></a>
+          <a href="{{route('login')}}">Đăng nhập</a>
           
     </div>
 
